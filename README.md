@@ -1,15 +1,15 @@
-# Hi 👋, I'm Kiran
+# Hi 👋, I'm KIRAN GORAJANAL
 
 🚀 Passionate Embedded Systems & VLSI Enthusiast | Electronics & Communication Engineer | 2022 - 2026  
 
-- 💬 Ask me about **, Verilog, VLSI, Digital Electronics,FPGA,SOC IoT**
+- 💬 Ask me about **Verilog, VLSI, Digital Electronics, FPGA, SoC, IoT**  
 - 📫 How to reach me: **kgorajanal@gmail.com**
 
 ---
 
 ### 🌐 Connect with me:
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/kiran-gorajanal-168b3622a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
-[![Instagram]([https://img.shields.io/badge/Instagram-pink?logo=instagram&logoColor=white)](https://www.instagram.com/yourprofile](https://www.instagram.com/kiran_gorajanal?igsh=MW11Nmhyd3I0dnZjZQ==))
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](your-linkedin-ur](https://www.linkedin.com/in/kiran-gorajanal-168b3622a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)l)
+[![Instagram]([https://img.shields.io/badge/Instagram-pink?logo=instagram&logoColor=white)](your-instagram-url](https://www.instagram.com/kiran_gorajanal?igsh=MW11Nmhyd3I0dnZjZQ==))
 
 ---
 
@@ -17,20 +17,37 @@
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Verilog](https://img.shields.io/badge/Verilog-007ACC?logo=verilog&logoColor=white)
-![VHDL](https://img.shields.io/badge/VHDL-FFA500?logo=vhdl&logoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog-007ACC?logoColor=white)
 
 ---
 
 ### ⚙️ IDE and Tools I use:
 ![Vivado](https://img.shields.io/badge/Vivado-FF6600?logo=xilinx&logoColor=white)
 ![Xilinx ISE](https://img.shields.io/badge/Xilinx%20ISE-E01F27?logo=xilinx&logoColor=white)
-![Proteus](https://img.shields.io/badge/Proteus-25A162?logo=proteus&logoColor=white)
-![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?logo=arduino&logoColor=white)
+![ModelSim](https://img.shields.io/badge/ModelSim-007ACC?logo=intel&logoColor=white)
 ![EDA Playground](https://img.shields.io/badge/EDA%20Playground-1E90FF?logo=codeforces&logoColor=white)
+![Proteus](https://img.shields.io/badge/Proteus-25A162?logoColor=white)
+![Arduino IDE](https://img.shields.io/badge/Arduino%20IDE-00979D?logo=arduino&logoColor=white)
+![Keil uVision](https://img.shields.io/badge/Keil_uVision-00A9E0?logo=arm&logoColor=white)
+
+
+---
+
+### 📊 GitHub Stats:
+![Kiran's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kiranix-90&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kiranix-90&layout=compact&theme=tokyonight)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kiranix-90&theme=dark)](https://git.io/streak-stats)
+
+---
+
+### 👀 Visitor Count:
+![Visitor Count](https://komarev.com/ghpvc/?username=Kiranix-90&color=blue)
 
 ---
 
 ### ☕ Support:
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-F7CA88?logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/yourusername)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-F7CA88?logo=buy-me-a-coffee&logoColor=black)](your-buymeacoffee-link)
+a-coffee&logoColor=black)](https://www.buymeacoffee.com/yourusername)
  
