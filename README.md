@@ -18,6 +18,7 @@
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Verilog](https://img.shields.io/badge/Verilog-007ACC?logoColor=white)
+![SystemVerilog](https://img.shields.io/badge/SystemVerilog-FF6F00?logoColor=white)
 
 ---
 
@@ -48,6 +49,6 @@
 ---
 
 ### ☕ Support:
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-F7CA88?logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/kiran)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-F7CA88?logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/kirang)
 
  
