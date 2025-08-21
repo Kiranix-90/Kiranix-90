@@ -48,6 +48,6 @@
 ---
 
 ### ☕ Support:
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-F7CA88?logo=buy-me-a-coffee&logoColor=black)](your-buymeacoffee-link)
-a-coffee&logoColor=black)](https://www.buymeacoffee.com/yourusername)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-F7CA88?logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/kiran)
+
  
