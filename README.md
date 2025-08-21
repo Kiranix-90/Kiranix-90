@@ -3,7 +3,7 @@
 🚀 Passionate Embedded Systems & VLSI Enthusiast | Electronics & Communication Engineer | 2022 - 2026  
 
 - 💬 Ask me about **, Verilog, VLSI, Digital Electronics,FPGA,SOC IoT**
-- 📫 How to reach me: **yourmail@example.com**
+- 📫 How to reach me: **kgorajanal@gmail.com**
 
 ---
 
@@ -24,9 +24,10 @@
 
 ### ⚙️ IDE and Tools I use:
 ![Vivado](https://img.shields.io/badge/Vivado-FF6600?logo=xilinx&logoColor=white)
-![ModelSim](https://img.shields.io/badge/ModelSim-007ACC?logo=intel&logoColor=white)
+![Xilinx ISE](https://img.shields.io/badge/Xilinx%20ISE-E01F27?logo=xilinx&logoColor=white)
 ![Proteus](https://img.shields.io/badge/Proteus-25A162?logo=proteus&logoColor=white)
 ![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?logo=arduino&logoColor=white)
+![EDA Playground](https://img.shields.io/badge/EDA%20Playground-1E90FF?logo=codeforces&logoColor=white)
 
 ---
 
