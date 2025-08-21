@@ -10,10 +10,11 @@
 ### 🌐 Connect with me:
 ### Connect with me:
 
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername](https://www.linkedin.com/in/kiran-gorajanal-168b3622a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)) 
-[![Instagram]([https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/yourusername](https://www.instagram.com/kiran_gorajanal?igsh=MW11Nmhyd3I0dnZjZQ==))
+🌐 Connect with me:
 
----
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)]([https://www.linkedin.com/in/yourusername](https://www.linkedin.com/in/kiran-gorajanal-168b3622a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+[![Instagram](https://skillicons.dev/icons?i=instagram)]([https://www.instagram.com/yourusername](https://www.instagram.com/kiran_gorajanal?igsh=MW11Nmhyd3I0dnZjZQ==))
+
 
 ### 💻 I code in:
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white)
